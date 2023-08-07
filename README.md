@@ -15,7 +15,7 @@ Here are some of my repositories:
 ## Get in Touch
 
 I look forward to exploring new technologies and collaborate on interesting projects. Reach out to me if you would like to connect and/or work together:
-- [linkedin.com/in/wilberhdez26](https://www.linkedin.com/in/wilberhdez26/))
+- [linkedin.com/in/wilberhdez26](https://www.linkedin.com/in/wilberhdez26/)
 
 
 
