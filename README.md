@@ -10,7 +10,7 @@ Here are some of my repositories:
 
 - [AI Finance](https://github.com/wilberh/AIFinanceProject): This project tries to find if any correlation between security performance and local economic behavior/news.
 - [Restaurant Menu Webapp](https://github.com/wilberh/Restaurant-Menu-WebApp): This is an implementation of a web application that provides a list of restaurants and detail information of their menu items.
-- [Movie Trailer Website](https://github.com/wilberh/Movie-Trailer-Website): This project is a Movie Trailer Website where users can see my favorite movies and watch the trailers.
+- [Movie Trailer Website](https://github.com/wilberh/Movie-Trailer-Website): This project is a website where users can see my favorite movies and watch the trailers.
 
 ## Get in Touch
 
