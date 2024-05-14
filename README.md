@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Python Developer with 7+ years of experience as a back-end developer and some front-end in designing, implementing, and testing enterprise applications using Python, Django, Java, Spring/Spring boot, Golang, Angular, NodeJS and ExpressJS. Overall 10+ years of experience working in IT, computer networks, and telecom supporting a multitude of clients from telecom, healthcare, and finance.  I'm currently based in Florida. I speak English, Spanish and un peu de Français.
+I am a Python Developer with 9 years of experience as a back-end developer and some front-end in designing, implementing, and testing enterprise applications using Python, Django, Java, Spring/Spring boot, Golang, Angular, NodeJS and ExpressJS. Overall 10+ years of experience working in IT, computer networks, and telecom supporting a multitude of clients from telecom, healthcare, and finance.  I'm currently based in Florida. I speak English, Spanish and un peu de Français.
 
 ## Featured Repositories
 
