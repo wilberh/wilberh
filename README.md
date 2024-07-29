@@ -9,7 +9,7 @@ I am a Python Developer with 9 years of experience as a back-end developer and s
 Here are some of my repositories:
 
 - [AI Finance](https://github.com/wilberh/AIFinanceProject): This DJANGO project tries to find if any correlation between security performance and local economic behavior/news.
-- [Restaurant Menu Webapp](https://github.com/wilberh/Restaurant-Menu-WebApp): This FLASK is an implementation of a web application that provides a list of restaurants and detail information of their menu items.
+- [Restaurant Menu Webapp](https://github.com/wilberh/Restaurant-Menu-WebApp): This FLASK project is an implementation of a web application that provides a list of restaurants and detail information of their menu items.
 - [Movie Trailer Website](https://github.com/wilberh/Movie-Trailer-Website): This project is a website where users can see my favorite movies and watch the trailers.
 - [First Python Package](https://github.com/wilberh/pubpypack-gadget-wilber-hdez): Part of a meetup [presentation slides](https://github.com/wilberh/pubpypack-gadget-wilber-hdez-slides/blob/main/Background_Deployment_%20PyPI%20-%20the%20package%20index%20-%20final.pdf) on how to publish a distribution-package on [test.pypi.org](https://test.pypi.org/project/pubpypack-gadget-wilber-hdez/) with its own ci-cd pipeline using Github Actions as a Trusted Publisher with OpenID Connect (OIDC). 
 
